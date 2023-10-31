@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "indoor_nav" "\0"
+            VALUE "FileDescription", "inroadview_01" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "indoor_nav" "\0"
+            VALUE "InternalName", "inroadview_01" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "indoor_nav.exe" "\0"
-            VALUE "ProductName", "indoor_nav" "\0"
+            VALUE "OriginalFilename", "inroadview_01.exe" "\0"
+            VALUE "ProductName", "inroadview_01" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
